@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# others
+
+util-files
+test*.js
+es6 promises.js
+.prettierrc
