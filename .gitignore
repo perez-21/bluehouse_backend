@@ -133,10 +133,14 @@ dist
 
 util-files
 test*.*
-es6 promises.*
+es6 *.*
 lockbox.*
 .prettierrc
-
+TS.ts
+config_files
+Python async.py
+Python Annotations.py
+[0-99]-main.py
 
 # gitignore
 .gitignore
